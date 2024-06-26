@@ -25,7 +25,7 @@
 	GUID = 'c1e32f48-4f68-4127-b7fe-9f774e8d89d5'
 	
 	# Author of this module
-	Author = 'Night'
+	Author = 'jonathan.fierstein@gmail.com'
 	
 	# Company or vendor of this module
 	CompanyName = ''
