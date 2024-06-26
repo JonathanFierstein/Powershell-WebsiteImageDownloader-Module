@@ -1,5 +1,10 @@
-#ignore all *.TempPoint.ps1 Files - These are Powershell Studio Temporary Files and are not related to the repository...
+#ignore all *.TempPoint.ps* Files and .psproj files - These are Powershell Studio Temporary Files and are not related to the repository...
 *.TempPoint.ps1
+*.TempPoint.psd1
+*.TempPoint.psm1
+*.psproj
+*.psprojs
+
 
 #Ignore all .backup Files - These are Backup Files Created By GhostWriter to Protect Against Possible Loss When Editing Markdown Files
 *.backup
