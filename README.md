@@ -12,13 +12,13 @@ At my request, Gemini created a simple, non-modularized Powershell script that d
 
 The initial version of the module will have the following features:
 
-* Have a Primary Function Verb-Noun that takes the following parameters
+* Have the Primary Functions Get-WebsiteImage & Save-WebsiteImage that take the following parameters:
 
-+ - +  Website Address
-+ - +  Local Directory to Save Downloaded Images
-+ - +  Resolution Size Specification in order for JPGs to be downloaded
-+ - +  Optional Subpage Depth Limit - To tell the module not to download images beyond a certain depth below the starting address
+    +  Website Address
+    +  Local Directory to Save Downloaded Images
+    +  Resolution Size Specification in order for JPGs to be downloaded
+    +  Optional Subpage Depth Limit - To tell the module not to download images beyond a certain depth below the starting address
  Optional Verbose Switch - To indicate module should generate verbose output to the screen
 
-    Have well documented code that makes use of Powershell language features
+* Have well documented code that makes use of Powershell language features
     
