@@ -8,9 +8,9 @@
 	 Filename:     WebsiteImageDownloader.psd1
 	---------------------------------------------------------------------------
 	 Module Name: WebsiteImageDownloader
-        ---------------------------------------------------------------------------
+    ---------------------------------------------------------------------------
 	 Notes:
-         Module manifest for the WebsiteImageDownloader module
+     Module manifest for the WebsiteImageDownloader module
 	===========================================================================
 #>
 
