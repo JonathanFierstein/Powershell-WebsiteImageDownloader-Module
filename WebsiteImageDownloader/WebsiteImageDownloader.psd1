@@ -1,10 +1,10 @@
 ﻿<#	
 	===========================================================================
-	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2022 v5.8.213
-	 Created on:   	6/26/2024 4:06 PM
-	 Created by:   	Night
+	 Created with: SAPIEN Technologies, Inc., PowerShell Studio 2022 v5.8.213
+	 Created on:   6/26/2024 4:06 PM
+	 Created by:   Night
 	 Organization: 	
-	 Filename:     	WebsiteImageDownloader.psd1
+	 Filename:     WebsiteImageDownloader.psd1
 	---------------------------------------------------------------------------
 	 Module Name: WebsiteImageDownloader
         ---------------------------------------------------------------------------
