@@ -4,7 +4,7 @@
 *.TempPoint.psm1
 *.psproj
 *.psprojs
-
+*.TempPoint.backup
 
 #Ignore all .backup Files - These are Backup Files Created By GhostWriter to Protect Against Possible Loss When Editing Markdown Files
 *.backup
