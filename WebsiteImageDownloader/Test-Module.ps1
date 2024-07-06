@@ -3,9 +3,13 @@
 	===========================================================================
 	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2022 v5.8.213
 	 Created on:   	6/26/2024 4:06 PM
-	 Created by:   	Night
+	 Created by:   	Nightshade - Jonathan Fierstein 
+         (jonathan.fierstein@gmail.com)
 	 Organization: 	
 	 Filename:     	Test-Module.ps1
+        ---------------------------------------------------------------------------
+	Notes:
+        Testing Script for the WebsiteImageDownloader module
 	===========================================================================
 	.DESCRIPTION
 	The Test-Module.ps1 script lets you test the functions and other features of
