@@ -7,6 +7,10 @@
 	 Filename:     	WebsiteImageDownloader.psm1
 	-------------------------------------------------------------------------
 	 Module Name: WebsiteImageDownloader
+        -------------------------------------------------------------------------
+	 Notes:
+
+	This is the core module file for the WebsiteImageDownloader module.
 	===========================================================================
 #>
 
